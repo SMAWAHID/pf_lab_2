@@ -1,2 +1,3 @@
-# pf_lab_2
-intro-to-github
+# pf_lab_02
+## Student at FAST
+### Skills introduction to Github
